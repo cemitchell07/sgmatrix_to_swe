@@ -1,0 +1,14 @@
+{
+    "PXGRID_HOST": "ise.anywhere.net",
+    "PXGRID_NAME": "SGMtoSMC",
+    "PXGRID_DESC": "SGT Matrix to SMC Replication Tool",
+    "PASSWORD": "",
+    "PXGRID_CLIENTCERT": "certs/client.cer",
+    "PXGRID_CLIENTKEY": "certs/client.key",
+    "PXGRID_KEYPASS": "Cisco123",
+    "PXGRID_CACERT": "certs/root.cer",
+    "SMC_HOST": "smc.anywhere.net",
+    "SMC_USER": "admin",
+    "SMC_PASSWORD": "Cisco123",
+    "SMC_TENANT_ID": ""
+}
